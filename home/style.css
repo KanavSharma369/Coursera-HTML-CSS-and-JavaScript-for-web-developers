@@ -1,0 +1,65 @@
+body{
+	margin: 0px;
+	font-family: calibri;
+}
+a:link {
+			background-color: transparent;
+			text-decoration: none;
+}
+a:visited {
+			background-color: transparent;
+			text-decoration: none;
+}
+.ModuleContainer a {
+	transition-duration: 0.4s;
+			padding: 10px 20px;
+			margin-bottom: 15px;
+			width: 100%;
+			border-radius: 14px;
+			display: inline-block;
+			background-color: lightyellow;
+        color: darkgoldenrod;
+}
+.ModuleContainer a:hover{
+	background-color:darkcyan;
+        color: lightyellow;
+}
+
+.banner{
+	margin: 0px;
+	padding: 100px;
+	color: greenyellow;
+	background-color: darkcyan;
+	
+	font-size: 25px;
+}
+.displayInline{
+	display: inline-block;
+	margin: 0px;
+}
+.displayInline a{
+	background-color: lightyellow;
+	color: darkgoldenrod;
+	font-size: 19px;
+
+	margin-right: 30px;
+	padding: 20px;
+	border: 2px solid greenyellow;
+	transition-duration: 0.4s;
+	border-radius: 14px;
+}
+.displayInline a:hover{
+	background-color: transparent;
+	color: lightyellow;
+	transition-duration: 0.4s;
+	border: 2px solid greenyellow;
+	border-radius: 14px;
+}
+.ModuleContainer{
+	background-color: greenyellow;
+	margin: 0px;
+	padding: 15%;
+}
+.Module{	
+	padding: 20px;
+}

@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## This page is for Coursera assignments for the Course HTML, CSS and JavaSCript for web-developers
+
+## To visit the web-page [Click Here](https://kanavsharma369.github.io/Coursera-HTML-CSS-and-JavaScript-for-web-developers/home/)
 
 You can use the [editor on GitHub](https://github.com/KanavSharma369/Coursera-web-development/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
